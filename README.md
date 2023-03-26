@@ -6,9 +6,7 @@ The FolderStructure class has methods to create folders and subfolders, print th
 
 The __get_folder and __search_folder methods are helper methods that are used to search for a specific folder node within the tree structure. The __traverse_sub_folders and __traverse_folders methods are helper methods that are used to traverse the tree and print the names of all subfolders and folders, respectively.
 
-Overall, this implementation provides a basic framework for managing folders and files in a binary search tree structure, although it could be extended further with additional functionality such as file management and searching.
-
-
+Overall, this implementation provides a basic framework for managing folders and files in a binary search tree structure.
 
 
 
